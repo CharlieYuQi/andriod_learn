@@ -25,7 +25,8 @@ public class DisplayMessageActivity extends Activity {
 	    textView.setText(message);
 
 	    // Set the text view as the activity layout
-	    setContentView(textView);	    
+	    setContentView(textView);	
+	    
 	}
 	
 	/**
